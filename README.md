@@ -17,3 +17,7 @@ This a my very first project, an assitant to play music, detect movement google,
 1. Clone the repo:
    ```bash
    git clone https://github.com/BrandenPIQES/ZWIRI.git
+
+2. Install dependeciees:
+   ```bash
+   pip install -r requirements.txt
