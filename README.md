@@ -24,3 +24,7 @@ This a my very first project, an assitant to play music, detect movement google,
 2. Install dependeciees:
    ```bash
    pip install -r requirements.txt
+
+3. Navigate to the folder and Run the program:
+   ```bash
+   py zwiri.py
