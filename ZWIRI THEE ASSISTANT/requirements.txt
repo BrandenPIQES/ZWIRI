@@ -1,0 +1,9 @@
+PyQt5
+speechrecognition
+SystemInOOP
+pywhatkit
+beautifulsoup4
+requests
+pyttsx3
+OPPDetect
+opencv-python
