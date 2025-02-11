@@ -10,7 +10,7 @@ This a my very first project, an assitant to play music, detect movement google,
 - Turn off your computer on voice promt
 
 ## **Probably** Upcoming features💀
-- To list on voice prompt
+- To do list on voice prompt
 - Uhm...
 
 ## Installation or Usage⚙️
