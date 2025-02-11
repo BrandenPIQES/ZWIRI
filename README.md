@@ -14,6 +14,9 @@ This a my very first project, an assitant to play music, detect movement google,
 - Uhm...
 
 ## Installation or Usage⚙️
+
+**Please note that you must have the latest python and pip installed. I tested this on a windows laptop, it might be different for Mac or any OS**
+
 1. Clone the repo:
    ```bash
    git clone https://github.com/BrandenPIQES/ZWIRI.git
